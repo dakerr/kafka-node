@@ -1,7 +1,7 @@
 {
   "name": "kafka-node",
   "description": "node client for Apache kafka, only support kafka 0.8 and above",
-  "version": "0.2.25",
+  "version": "0.3.0",
   "main": "kafka.js",
   "dependencies": {
     "async": "~0.9.0",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:SOHU-Co/kafka-node.git"
+    "url": "git@github.com:dakerr/kafka-node.git"
   },
   "scripts": {
     "test": "make test"
